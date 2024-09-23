@@ -32,3 +32,11 @@ This project is a Python script that scrapes the Notion Help Center, extracts ar
 
 Run the script using Python:
 
+```
+python main.py
+```
+
+This will create two files:
+
+- `notion_help_chunks.json`: Contains the chunked content
+- `notion_help_articles.json`: Contains the full articles
