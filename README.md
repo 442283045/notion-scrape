@@ -19,8 +19,8 @@ This project is a Python script that scrapes the Notion Help Center, extracts ar
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/notion-help-scraper.git
-   cd notion-help-scraper
+   git clone https://github.com/442283045/notion-scrape.git
+   cd notion-scrape
    ```
 
 2. Install the required packages:
